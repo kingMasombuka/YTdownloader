@@ -1,0 +1,23 @@
+{
+  "name": "ytdownloader",
+  "version": "1.0.0",
+  "description": "This is a youtube video downloader",
+  "main": "app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bull": "^4.10.4",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-validator": "^6.15.0",
+    "mongoose": "^7.0.1",
+    "morgan": "^1.10.0",
+    "socket.io": "^4.6.1",
+    "typescript": "^4.9.5",
+    "ytdl-core": "^4.11.2"
+  }
+}
